@@ -78,6 +78,6 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 
 # For Jekyll >= 3.5.0
 # This will enable each of these plugins automatically.
-plugins:
+gems:
   - jekyll-paginate
   - jemoji
